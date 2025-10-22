@@ -1,0 +1,6 @@
+
+[
+  { "name": "John", "pubid": "PUB123" },
+  { "name": "Alice", "pubid": "PUB456" },
+  { "name": "Bob", "pubid": "PUB789" }
+]
